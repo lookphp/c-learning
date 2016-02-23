@@ -1,0 +1,6 @@
+D:\c#\c-learning\01\myfirstapp\myfirstapp\bin\Debug\myfirstapp.exe.config
+D:\c#\c-learning\01\myfirstapp\myfirstapp\bin\Debug\myfirstapp.exe
+D:\c#\c-learning\01\myfirstapp\myfirstapp\bin\Debug\myfirstapp.pdb
+D:\c#\c-learning\01\myfirstapp\myfirstapp\obj\Debug\myfirstapp.csprojResolveAssemblyReference.cache
+D:\c#\c-learning\01\myfirstapp\myfirstapp\obj\Debug\myfirstapp.exe
+D:\c#\c-learning\01\myfirstapp\myfirstapp\obj\Debug\myfirstapp.pdb
