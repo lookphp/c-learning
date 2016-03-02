@@ -2,7 +2,7 @@
 learn c#
 first class content
 new a project step:<br/>
-1、选择文件类型：文件->新建项目->模板->Visual c# -> 控制台应用程序（用于创建命令行应用程序的项目）<br/>
+1、选择文件类型：文件->新建项目->模板->Visual c# ->Windows-> 控制台应用程序（用于创建命令行应用程序的项目）<br/>
 2、填写文件名称和文件存储位置：名称->myfirstapp 位置：D:\c#\c-learning\01\<br/>
 3、c#源文件是以 .cs  结尾的
 
